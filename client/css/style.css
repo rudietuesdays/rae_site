@@ -19,15 +19,14 @@ p {
   color: #26a69a;
 }
 
-.parallax-container {
-  min-height: 380px;
-  line-height: 0;
-  height: auto;
-  color: rgba(255,255,255,.9);
+.parallax {
+  opacity: 0.2;
 }
-  .parallax-container .section {
-    width: 100%;
-  }
+
+.parallax img {
+  min-width: 130%;
+  min-height: 130%;
+}
 
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
