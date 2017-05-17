@@ -1,12 +1,12 @@
 {
-  "name": "full_mean_wall",
-  "version": "1.0.0",
-  "description": "",
+  "name": "rae_site",
+  "version": "0.0.1",
+  "description": "rae portfolio website",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-    "postinstall": "bower install"
+    "heroku-postbuild": "bower install"
   },
   "keywords": [],
   "author": "",
