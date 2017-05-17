@@ -1,20 +1,13 @@
 {
-  "name": "Assignment_Modularize",
-  "description": "",
-  "main": "index.js",
+  "name": "rae_site",
+  "description": "rae portfolio website",
+  "main": "server.js",
   "authors": [
-    "your name and email here"
+    "me@raegaines.com"
   ],
   "license": "ISC",
   "moduleType": [],
   "homepage": "",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
   "dependencies": {
     "angular": "^1.5.3",
     "angular-route": "^1.5.3",
