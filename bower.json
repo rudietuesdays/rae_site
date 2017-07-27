@@ -13,6 +13,7 @@
     "angular-route": "^1.5.3",
     "angular-cookies": "^1.6.0",
     "materialize": "^0.98.2",
-    "moment": "^2.17.1"
+    "moment": "^2.17.1",
+    "angular-pdf": "^2.0.0"
   }
 }
